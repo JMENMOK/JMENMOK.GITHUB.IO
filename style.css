@@ -1,0 +1,159 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+} 
+body{
+	background: whitesmoke;
+
+	 font-family: 'Permanent Marker', cursive;
+	color:yellow ;
+
+} 
+	p{
+	
+	font-family: 'Sura', serif; 
+ 	color: yellow;
+
+}
+	a{
+	font-family: 'Sura', serif; 
+	color: black; 
+}
+	h1{ font size: 75px;
+		margin-bottom: 15px;
+}
+
+nav{
+	padding-bottom: 30px;
+	padding-top: 30px;
+	padding-left: 10%px;
+	padding right: 10%; 
+	background-color: lightpink;
+	text-align: center; 
+
+}
+nav a {
+	color: blue;
+	margin-right: 20px;
+	margin-left: 20px; 
+	text-decoration: none; 
+	font-family: gothic; 
+	transition: 0.5s;
+
+}
+nav a:hover {
+	color: goldenrod;
+
+}
+	.presentation{
+		background: black;
+		padding-top: 50px; 
+		padding-bottom: 15px; 
+		text-align: center;
+		font-size: 75px; 
+
+	} 
+	
+	.art{ 
+		background: ;
+		padding-top: 40px; 
+		padding-bottom:200px; 
+		text-align: left; 
+		margin-right: 50%; 
+
+
+	} 
+.artist{
+		background: lightpink;
+		padding-top: px; 
+		padding-bottom: px; 
+		text-align: center; 
+		padding-bottom: px; 
+		margin-left: %;  
+
+
+	}  
+{}
+
+
+
+.flaque{
+
+	background-color: whitesmoke; 
+	text-align:left; 
+	font color:black ;
+padding-left:  px;
+padding-bottom:20px ;
+
+}
+
+h2{
+	color: black;
+	word-spacing: 40px;
+	text-align: center; font-family: permanent marker;
+}
+
+	
+	
+	}	
+
+
+
+.btn1{ color: blueviolet;
+	background: blue;
+	transition: 0.5s;
+	padding: 20px 40px; 
+	font-size: 20px;
+	text-align: center; 
+	display: inline-block;
+	text-decoration: none;
+	border-radius: 30px; 
+	border:50px whitesmoke; 
+
+
+
+
+}
+.btn1:hover{
+	color: darkred;
+	background: lightpink;
+	border:5px solid whitesmoke;
+	padding:10px  ; 
+	border-radius: 55px;
+	transition: 0.5s;
+
+
+	
+
+}
+.portefolio{
+	background: black;
+	padding: 80px 15%; 
+
+}
+.grille{
+	border: 4px solid b;
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	grid-gap: 40px;
+}
+.portefolio article{
+	border: 4px solid none; 
+	background: whitesmoke; 
+	border-radius: 55px; 
+	text-align: center;
+	h2
+}
+
+footer{
+	background: black;
+	color: whitesmoke;
+	text-align: center;
+	padding: 15px	10%;
+}
+
+
+
+
+
